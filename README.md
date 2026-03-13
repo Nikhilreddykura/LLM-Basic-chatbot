@@ -1,2 +1,2 @@
-# LLM-Basic-chatbot
-llama Phi 3 basic chatbot
+# LLM Chatbot
+llama Phi 3 LLM Chatbot
